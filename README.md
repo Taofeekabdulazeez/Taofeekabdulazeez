@@ -7,9 +7,6 @@ efficient, and ethical code from intricate concepts and designs
 
 Let's collaborate and bring your ideas to life. 
 
-[![Taofeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taofeekabdulazeez&show_icons=true&layout=compact&theme=dark)](https://github.com/Taofeekabdulazeez)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taofeekabdulazeez&layout=compact&theme=dark)](https://github.com/Taofeekabdulazeez)
 
 
 ## 🔧 Toolbox
@@ -64,6 +61,10 @@ Let's collaborate and bring your ideas to life.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taofeek-abdulazeez-8a2780237/).
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SirFeeky)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sirfeeky)
+
+[![Taofeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taofeekabdulazeez&show_icons=true&layout=compact&theme=dark)](https://github.com/Taofeekabdulazeez)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taofeekabdulazeez&layout=compact&theme=dark)](https://github.com/Taofeekabdulazeez)
 
 
 
