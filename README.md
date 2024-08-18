@@ -7,9 +7,9 @@ efficient, and ethical code from intricate concepts and designs
 
 Let's collaborate and bring your ideas to life. 
 
-[![Taofeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=stuyy&show_icons=true&layout=compact&theme=dark)](https://github.com/Taofeekabdulazeez)
+[![Taofeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taofeekabdulazeez&show_icons=true&layout=compact&theme=dark)](https://github.com/Taofeekabdulazeez)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuyy&layout=compact&theme=dark)](https://github.com/Taofeekabdulazeez)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taofeekabdulazeez&layout=compact&theme=dark)](https://github.com/Taofeekabdulazeez)
 
 
 ## 🔧 Toolbox
