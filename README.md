@@ -28,7 +28,7 @@ Let's collaborate and bring your ideas to life.
 
 ![Node](https://img.shields.io/badge/node.js-026e00?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black) 
-![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
 ![supabase](https://img.shields.io/badge/supabase-3ecfb2?style=for-the-badge&logo=supabase&logoColor=white)
 ![graphql](https://img.shields.io/badge/graphql-e10098?style=for-the-badge&logo=graphql&logoColor=white)
