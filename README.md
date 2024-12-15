@@ -43,7 +43,7 @@ Let's collaborate and bring your ideas to life.
 
 **Others:** `Docker` `Notion` `Jira`
 
-- 🌱 I’m currently exploring *Latest NextJS 14 features*, and *React Native expo*
+- 🌱 I’m currently exploring *Latest NextJS 15 features*, and *React Native expo*
 
 - 👨‍💻 [Visit my Portofilo](https://taofeekabdulazeez.vercel.app/) to view all my live projects
 
