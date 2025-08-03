@@ -16,9 +16,9 @@ Let's collaborate and bring your ideas to life.
 ![typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white) 
 ![c#](https://img.shields.io/badge/C%23-4E2ACD?style=for-the-badge)
 ![Golang](https://img.shields.io/badge/Golang-007D9C?style=for-the-badge&logo=go)
-![Static Badge](https://img.shields.io/badge/JAVA-brown?style=for-the-badge&logo=jar)
+![Java](https://img.shields.io/badge/JAVA-b55863?style=for-the-badge&logo=jar)
 ![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/python-ffe58f?style=for-the-badge&logo=python)
+![Static Badge](https://img.shields.io/badge/python-gold?style=for-the-badge&logo=python)
 
 
 
