@@ -42,7 +42,7 @@ Let's collaborate and bring your ideas to life.
 
 **Others:** `Docker` `Notion` `Jira`
 
-- 🌱 I’m currently exploring _Latest ASP.NET features_, and _React Native expo_
+- 🌱 I’m currently exploring _Latest ASP.NET features_, and _Golang_
 
 - 👨‍💻 [Visit my Portofilo](https://taofeekabdulazeez.vercel.app/) to view all my live projects
 
