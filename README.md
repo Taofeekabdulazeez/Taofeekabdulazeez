@@ -46,7 +46,7 @@ Let's collaborate and bring your ideas to life.
 
 - 👨‍💻 [Visit my Portofilo](https://taofeekabdulazeez.vercel.app/) to view all my live projects
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@taofeekabdulazeez2020) and [LinkedIn](https://www.linkedin.com/in/taofeek-abdulazeez-8a2780237/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@taofeekabdulazeez) and [LinkedIn](https://www.linkedin.com/in/taofeekabdulazeez)
 
 - 📫 Contact me via email @ **taofeekabdulazeeztaiwo@gmail.com**
 
