@@ -10,21 +10,24 @@ Let's collaborate and bring your ideas to life.
 
 **Programming Languages:**
 
-![typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-4E2ACD?style=for-the-badge)
+![typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-007D9C?style=for-the-badge&logo=go)
 
 **Backend Development:**
 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-7117E6?style=for-the-badge)
 ![Node](https://img.shields.io/badge/node.js-026e00?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-7117E6?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Golang-007D9C?style=for-the-badge&logo=go)
 ![graphql](https://img.shields.io/badge/graphql-e10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)
 ![postgres](https://img.shields.io/badge/postgres-699eca?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-00684A?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Frontend Development:**
 
