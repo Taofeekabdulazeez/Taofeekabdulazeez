@@ -42,19 +42,11 @@ Let's collaborate and bring your ideas to life.
 
 **Others:** `Docker` `Notion` `Jira`
 
-- 🌱 I’m currently exploring _Latest ASP.NET features_, and _Golang_
-
 - 👨‍💻 [Visit my Portofilo](https://taofeekabdulazeez.vercel.app/) to view all my live projects
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@taofeekabdulazeez) and [LinkedIn](https://www.linkedin.com/in/taofeekabdulazeez)
 
 - 📫 Contact me via email @ **taofeekabdulazeeztaiwo@gmail.com**
-
-## ✨ Other things
-
-- I enjoy reading Programming and Software development books and articles.
-- I love solving mathematics and computer science problems, (Linear Algebra, Discrete maths, Automata theory, etc)
-- I'm a football Fan
 
 ## 📫 Reach out to me on
 
@@ -63,4 +55,4 @@ Let's collaborate and bring your ideas to life.
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SirFeeky)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sirfeeky)
 
-[![Taofeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taofeekabdulazeez&show_icons=true&layout=compact&theme=dark)](https://github.com/Taofeekabdulazeez)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taofeekabdulazeez&layout=compact&theme=dark)](https://github.com/Taofeekabdulazeez)-->
