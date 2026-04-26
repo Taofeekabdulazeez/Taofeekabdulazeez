@@ -11,14 +11,14 @@ Let's collaborate and bring your ideas to life.
 **Programming Languages:**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![c#](https://img.shields.io/badge/C%23-4E2ACD?style=for-the-badge)
+<!--![c#](https://img.shields.io/badge/C%23-4E2ACD?style=for-the-badge)-->
 ![typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-007D9C?style=for-the-badge&logo=go)
 
 **Backend Development:**
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-7117E6?style=for-the-badge)
+<!--![ASP.NET](https://img.shields.io/badge/ASP.NET-7117E6?style=for-the-badge)-->
 ![Node](https://img.shields.io/badge/node.js-026e00?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
